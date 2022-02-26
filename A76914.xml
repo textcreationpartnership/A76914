@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody slaughter at Pembrooke-Castle in Wales where Collonel Poyer opposeth the Parliament, and hath killed and wounded 11 men, batters down the houses in the town, and refuseth to submit to the ordinance of Parliament. With the treaty of Collonel Flemming, and the gentlemen of the county with him, the danger of Tinby Castle to revolt from the Parliament. And a declaration from the chief officers under Major Generall Langhorne, subscribed by their owne hands. March 21. 1647. Imprimatur Gil. Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76914</idno>
+            <idno type="STC">Wing B3292</idno>
+            <idno type="STC">Thomason E433_5</idno>
+            <idno type="STC">ESTC R206179</idno>
+            <idno type="EEBO-CITATION">99865354</idno>
+            <idno type="PROQUEST">99865354</idno>
+            <idno type="VID">161538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161538)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody slaughter at Pembrooke-Castle in Wales where Collonel Poyer opposeth the Parliament, and hath killed and wounded 11 men, batters down the houses in the town, and refuseth to submit to the ordinance of Parliament. With the treaty of Collonel Flemming, and the gentlemen of the county with him, the danger of Tinby Castle to revolt from the Parliament. And a declaration from the chief officers under Major Generall Langhorne, subscribed by their owne hands. March 21. 1647. Imprimatur Gil. Mabbot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyer, John, d. 1649 --  Early works to 1800.</term>
+               <term>Pembroke Castle (Wales) --  Siege, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161538:1" rendition="simple:additions"/>
+            <p>A BLOODY SLAUGHTER AT <hi>PEMBROOKE-CASTLE</hi> IN WALES WHERE Collonel <hi>POYER</hi> oppoſeth the Par<g ref="char:EOLhyphen"/>liament, and hath killed and wounded 11 men, batters down the houſes in the Town, and refuſeth to ſubmit to the Ordi<g ref="char:EOLhyphen"/>nance of Parliament.</p>
+            <p>WITH The Treaty of Collonel <hi>Flemming,</hi> and the Gentlemen of the County with him, <hi>The danger of</hi> Tinby <hi>Caſtle to revolt from the Parliament.</hi>
+            </p>
+            <p>AND A Declaration from the Chief Officers under Major Generall <hi>Laughorne,</hi> Subſcribed by their owne Hands.</p>
+            <p>March 21. 1647. <hi>Imprimatur Gil. Mabbot.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161538:2"/>
+            <pb n="1" facs="tcp:161538:2"/>
+            <head>The Copy of a LETTER FROM <hi>PEMBROOKE:</hi> Concerning <hi>The Tranſactions in reducing of</hi> Pem<g ref="char:EOLhyphen"/>brooke CASTLE.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>COllonell <hi>Fleming,</hi> received Letters and Orders from the Parliament and his Ex<g ref="char:EOLhyphen"/>cellency, and upon receipt thereof, (after ad<g ref="char:EOLhyphen"/>vice with his Officers) he ſent a Drum, with the Ordinance of Parliament, and the ſum<g ref="char:EOLhyphen"/>mons; as the laſt to be ſent to him, to deli<g ref="char:EOLhyphen"/>ver up <hi>Pembrook</hi> Caſtle, within twelve houres, or he and all with him to be proclaimed Re<g ref="char:EOLhyphen"/>bels and Traytors.</p>
+            <pb n="2" facs="tcp:161538:3"/>
+            <p>An anſwer was hourely expected by Col<g ref="char:EOLhyphen"/>lonell <hi>Fleming,</hi> but came not within the time limitted. Yet at laſt the Drummer r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turn<g ref="char:EOLhyphen"/>ed not with Collonell <hi>Po<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers</hi> conſent, to ſur<g ref="char:EOLhyphen"/>render, but with Propoſitions to this effect.</p>
+            <p n="1">1. <hi>That</hi> 1000 <hi>li. might be paid unto him, which he ſaith ſhe hath disburſed.</hi>
+            </p>
+            <p n="2">2. <hi>That the Officers and Souldiers he paid part of their Arrears, according to the proportion of o<g ref="char:EOLhyphen"/>thers, and ſufficient ſecurity for the reſt.</hi>
+            </p>
+            <p n="3">3. <hi>That the Governour (and alſo the reſt of the Officers and Souldiers have liberty to goe whi<g ref="char:EOLhyphen"/>ther they will, with ſecurity.</hi>
+            </p>
+            <p>And ſo farre is Collonel <hi>Poyer</hi> from ſur<g ref="char:EOLhyphen"/>rendring of the Caſtle, that he hath diſcharg<g ref="char:EOLhyphen"/>ed ſeverall pieces of Ordinance upon the Towne, and battered ſeverall houſes, to the great prejudice of the Inhabitants.</p>
+            <p>Hee alſo made ſhot by divers Ordnance, with ſmall ſhot at the Souldiers, and hath wounded eleven, ſome of which is feared to be mortall.</p>
+            <p>After this Collonell <hi>Fleming,</hi> (with the ad<g ref="char:EOLhyphen"/>vice, and upon the deſires of the Gentlemen
+<pb n="3" facs="tcp:161538:3"/> of the Country) treated with him, and pro<g ref="char:EOLhyphen"/>miſed to give him 200 <hi>li.</hi> in monies. And to have the ſame termes for himſelf, and the Of<g ref="char:EOLhyphen"/>ficers and Souldiers with him, as other ſuper<g ref="char:EOLhyphen"/>numeries, that are, or have been disbanded elſe-where.</p>
+            <p>Alſo that his Arrears ſhould be Audited, and ſecurity given to him, for payment of what ſhall be upon account due to him.</p>
+            <p>And it was alſo further offered unto him. That he ſhould have the ſecurity of the Gen<g ref="char:EOLhyphen"/>tlemen of the County, whom he hath much oppreſſed: that they would relinquiſh all ſuits and actions in law againſt him.</p>
+            <p>But all theſe fair offers from Coll. <hi>Fleming,</hi> and the Gentlemen of the County could not, prevaile with him, but he put out his flagge of defiance, and will not yeeld.</p>
+            <p>There is ſome fear of <hi>Tinby</hi> Caſtle to revolt from the Parliament.</p>
+            <p>Captain <hi>Penn</hi> (according to the Order of the Committee of Safety) hath prepared aſ<g ref="char:EOLhyphen"/>ſiſtance for Col: <hi>Flemming,</hi> with Ammuniti<g ref="char:EOLhyphen"/>on and other neceſſaries for the refuſing of him.</p>
+            <closer>
+               <dateline>
+                  <hi>Pembrook</hi>
+                  <date>
+                     <hi>March</hi> 15. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="4" facs="tcp:161538:4"/>
+            <head>
+               <hi>A</hi> DECLARATION <hi>IN</hi> Vindication of the Officers and Souldi<g ref="char:EOLhyphen"/>ers under the Command of Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Laughorne,</hi> from di<g ref="char:EOLhyphen"/>vers falſe reports, and ſlanderous a<g ref="char:EOLhyphen"/>ſperſions caſt upon them.</head>
+            <p>FOR the clearing of our ſelves and the reſt of the Commanders, Officers and Souldiers under the command of Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Laughorne,</hi> from ſuch falſe reports and ſcandals as are raiſed upon us: And for the ſatisfying of the Publique, we have thought fit to declare that our intentions are reall to ſubmit, and yeeld obedience to the Ordinance of Parliament, and his Excellen<g ref="char:EOLhyphen"/>cies Orders thereupon for disbanding, and are reſolved accordingly to disband at ſuch time, and place as the Committees of the ſeverall Counties ſhall thinke fit, and ap<g ref="char:EOLhyphen"/>point, (ſo that the Forces be altogether) and on the delivering us our Debenters, and our
+<pb n="5" facs="tcp:161538:4"/> payment of the two Months pay compleate in the ſaid Ordinance allowed: And notwith<g ref="char:EOLhyphen"/>ſtanding the ſcandalous reports bruted through the Counties that wee indeavoured to ſeize upon and impriſon the perſons of ſome of the Commiſſioners and Treaſurers appointed for the ſervice of disbanding. And that the Forces that are lately ſent into the Garriſon of <hi>Tinby</hi> are intended ſhall hold the ſaid Garriſon againſt the Parliament and his Excellency, And alſo that others of our for<g ref="char:EOLhyphen"/>ces are intended to reſigne <hi>Poyer</hi> in the caſtle of <hi>Pembrooke,</hi> we for manifeſtation of the truth doe further declare that it was never in our intentions to ſeize upon any one or more of the Commiſſioners or Treaſurers, nor ſhal we ever preſume to attempt it. Nei<g ref="char:EOLhyphen"/>ther had we ever the leaſt thought or inten<g ref="char:EOLhyphen"/>tion to ſtrengthen that Town of <hi>Tinby</hi> againſt the State, and his Excellency; But we doe engage our ſelves, that when and whereſo<g ref="char:EOLhyphen"/>ever the ſaid Commiſſioners ſhall pleaſe to appoint a Randezvous for the disbanding the Forces together, That the Souldiers that are now in <hi>Tinby,</hi> ſhall likewiſe appeare be<g ref="char:EOLhyphen"/>fore them to disband.</p>
+            <pb n="6" facs="tcp:161538:5"/>
+            <p>And for Collonell <hi>Poyer,</hi> we declare our ſelves innocent of his actions, as may appear by our former deſires to his Excellency, for power to reduce him to the obedience of the Parliament.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Pat: Cozen</hi>
+                     </item>
+                     <item>
+                        <hi>Will: Shuttleworth</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Powell</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh Laughorne</hi>
+                     </item>
+                     <item>
+                        <hi>Ad. Beale</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Addys</hi>
+                     </item>
+                     <item>
+                        <hi>Phi. Bowen</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Marichurch.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Carmarthen</hi> 
+                  <date>
+                     <hi>the</hi> 10. <hi>of March.</hi> 1947.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
